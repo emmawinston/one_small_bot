@@ -27,7 +27,7 @@ auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
 
-heart = randrange(0,6)
+heart = randrange(0,15)
 
 if heart > 1:
     print('no heart this time')  
