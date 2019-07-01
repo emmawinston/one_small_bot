@@ -8193,10 +8193,8 @@ One small step for chimps, one giant leap for chimpskind.
 One small step for chin, one giant leap for chinkind.
 One small step for china, one giant leap for chinakind.
 One small step for chinese, one giant leap for chinesekind.
-One small step for chink, one giant leap for chinkkind.
 One small step for chinked, one giant leap for chinkedkind.
 One small step for chinking, one giant leap for chinkingkind.
-One small step for chinks, one giant leap for chinkskind.
 One small step for chinless, one giant leap for chinlesskind.
 One small step for chinoiserie, one giant leap for chinoiseriekind.
 One small step for chins, one giant leap for chinskind.
@@ -8945,7 +8943,6 @@ One small step for coagulate, one giant leap for coagulatekind.
 One small step for coagulated, one giant leap for coagulatedkind.
 One small step for coagulation, one giant leap for coagulationkind.
 One small step for coal, one giant leap for coalkind.
-One small step for coalblack, one giant leap for coalblackkind.
 One small step for coalesce, one giant leap for coalescekind.
 One small step for coalesced, one giant leap for coalescedkind.
 One small step for coalescence, one giant leap for coalescencekind.
@@ -20006,7 +20003,6 @@ One small step for foamiest, one giant leap for foamiestkind.
 One small step for foaming, one giant leap for foamingkind.
 One small step for foams, one giant leap for foamskind.
 One small step for foamy, one giant leap for foamykind.
-One small step for fob, one giant leap for fobkind.
 One small step for fobbed, one giant leap for fobbedkind.
 One small step for fobbing, one giant leap for fobbingkind.
 One small step for fobs, one giant leap for fobskind.
@@ -21741,8 +21737,6 @@ One small step for gingham, one giant leap for ginghamkind.
 One small step for gingivitis, one giant leap for gingivitiskind.
 One small step for gins, one giant leap for ginskind.
 One small step for ginseng, one giant leap for ginsengkind.
-One small step for gipsies, one giant leap for gipsieskind.
-One small step for gipsy, one giant leap for gipsykind.
 One small step for giraffe, one giant leap for giraffekind.
 One small step for giraffes, one giant leap for giraffeskind.
 One small step for gird, one giant leap for girdkind.
@@ -22088,8 +22082,6 @@ One small step for golfers, one giant leap for golferskind.
 One small step for golfing, one giant leap for golfingkind.
 One small step for golgotha, one giant leap for golgothakind.
 One small step for goliath, one giant leap for goliathkind.
-One small step for golliwog, one giant leap for golliwogkind.
-One small step for golly, one giant leap for gollykind.
 One small step for gonad, one giant leap for gonadkind.
 One small step for gonads, one giant leap for gonadskind.
 One small step for gondola, one giant leap for gondolakind.
@@ -22924,9 +22916,7 @@ One small step for gynaecological, one giant leap for gynaecologicalkind.
 One small step for gynaecologist, one giant leap for gynaecologistkind.
 One small step for gynaecologists, one giant leap for gynaecologistskind.
 One small step for gynaecology, one giant leap for gynaecologykind.
-One small step for gypsies, one giant leap for gypsieskind.
 One small step for gypsum, one giant leap for gypsumkind.
-One small step for gypsy, one giant leap for gypsykind.
 One small step for gyrate, one giant leap for gyratekind.
 One small step for gyrated, one giant leap for gyratedkind.
 One small step for gyrates, one giant leap for gyrateskind.
@@ -27814,7 +27804,6 @@ One small step for jettison, one giant leap for jettisonkind.
 One small step for jettisoned, one giant leap for jettisonedkind.
 One small step for jettisoning, one giant leap for jettisoningkind.
 One small step for jetty, one giant leap for jettykind.
-One small step for jew, one giant leap for jewkind.
 One small step for jewel, one giant leap for jewelkind.
 One small step for jewelled, one giant leap for jewelledkind.
 One small step for jeweller, one giant leap for jewellerkind.
@@ -33537,7 +33526,6 @@ One small step for negotiation, one giant leap for negotiationkind.
 One small step for negotiations, one giant leap for negotiationskind.
 One small step for negotiator, one giant leap for negotiatorkind.
 One small step for negotiators, one giant leap for negotiatorskind.
-One small step for negroid, one giant leap for negroidkind.
 One small step for neigh, one giant leap for neighkind.
 One small step for neighbour, one giant leap for neighbourkind.
 One small step for neighbourhood, one giant leap for neighbourhoodkind.
@@ -33734,11 +33722,6 @@ One small step for niftily, one giant leap for niftilykind.
 One small step for nifty, one giant leap for niftykind.
 One small step for niger, one giant leap for nigerkind.
 One small step for nigeria, one giant leap for nigeriakind.
-One small step for niggardly, one giant leap for niggardlykind.
-One small step for niggle, one giant leap for nigglekind.
-One small step for niggled, one giant leap for niggledkind.
-One small step for niggles, one giant leap for niggleskind.
-One small step for niggling, one giant leap for nigglingkind.
 One small step for nigh, one giant leap for nighkind.
 One small step for night, one giant leap for nightkind.
 One small step for nightcap, one giant leap for nightcapkind.
@@ -42934,12 +42917,8 @@ One small step for retaliates, one giant leap for retaliateskind.
 One small step for retaliating, one giant leap for retaliatingkind.
 One small step for retaliation, one giant leap for retaliationkind.
 One small step for retaliatory, one giant leap for retaliatorykind.
-One small step for retard, one giant leap for retardkind.
 One small step for retardant, one giant leap for retardantkind.
 One small step for retardation, one giant leap for retardationkind.
-One small step for retarded, one giant leap for retardedkind.
-One small step for retarding, one giant leap for retardingkind.
-One small step for retards, one giant leap for retardskind.
 One small step for retch, one giant leap for retchkind.
 One small step for retched, one giant leap for retchedkind.
 One small step for retching, one giant leap for retchingkind.
@@ -58108,4 +58087,3 @@ One small step for zooplankton, one giant leap for zooplanktonkind.
 One small step for zoos, one giant leap for zooskind.
 One small step for zulu, one giant leap for zulukind.
 One small step for zulus, one giant leap for zuluskind.
-One small step for , one giant leap for
